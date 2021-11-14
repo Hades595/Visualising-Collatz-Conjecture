@@ -20,5 +20,10 @@ So far this is the result I have gotten with 1000:
 
 Increasing the number only follows the same pattern. 
 
+Here's the animated version:
+
+![Figure2](animated.gif)
+
+
 This is just a simple project, in no way I am a expert at math or this conjecture.
 I just thought this would be a interesting project.

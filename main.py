@@ -44,4 +44,6 @@ plt.ylabel("How many #'s to reach loop")
 plt.title("Visualising Collatz Conjecture")
 
 # To show the plot
+plt.savefig('fig.png')
+
 plt.show()
